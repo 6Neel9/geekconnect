@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/geekconnect/static/css/main.073c9b0a.css",
+    "main.js": "/geekconnect/static/js/main.edd62866.js",
+    "static/media/logo.png": "/geekconnect/static/media/logo.80b40b68e3d2e66324f2.png",
+    "index.html": "/geekconnect/index.html",
+    "main.073c9b0a.css.map": "/geekconnect/static/css/main.073c9b0a.css.map",
+    "main.edd62866.js.map": "/geekconnect/static/js/main.edd62866.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.edd62866.js"
+  ]
+}
